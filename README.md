@@ -35,7 +35,7 @@ I'm a passionate full-stack developer and AI enthusiast with expertise in MERN s
    target="_blank"
    onmouseover="this.style.backgroundColor='#45a049';" 
    onmouseout="this.style.backgroundColor='#4CAF50';">
-   Mail us
+   Contact us
 </a></h4>
 
 
