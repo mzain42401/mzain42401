@@ -70,7 +70,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
         <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" width="80">
 	</td>
 	<td align='center' width="200">
-        <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.sv" width="80">
+        <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" width="80">
     </td>
 </tr>
 <tr>
