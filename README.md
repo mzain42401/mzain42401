@@ -14,7 +14,7 @@ I'm a passionate full-stack developer and AI enthusiast with expertise in MERN s
 <h5>💼 What I Do</h5>
 <b>Web Development</b>: Building dynamic, responsive websites and applications using modern web technologies.<br/>
 <b>Chatbot Development</b>: Creating intelligent chatbots for lead generation and customer support.<br/>
-<b>Freelancing</b>: Delivering high-quality web solutions to clients worldwide
+<b>Freelancing</b>: Delivering high-quality web solutions to clients worldwide.
 <br/>
 <h4> <a href="https://zainali.vercel.app" 
    style="background-color: #4CAF50; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 4px;" 
