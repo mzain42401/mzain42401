@@ -30,7 +30,7 @@ I'm a passionate full-stack developer and AI enthusiast with expertise in MERN s
    onmouseout="this.style.backgroundColor='#4CAF50';">
    My LinkedIn Profile
 </a> </h4>
-<h4> contact : <a href="mailto:mzain42401@gmail.com" 
+<h4>  <a href="mailto:mzain42401@gmail.com" 
    style="background-color: #4CAF50; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 4px;" 
    target="_blank"
    onmouseover="this.style.backgroundColor='#45a049';" 
@@ -135,9 +135,9 @@ I'm a passionate full-stack developer and AI enthusiast with expertise in MERN s
 </p>
 <p align="center">
 <a target="_blank" href="https://www.linkedin.com/in/mzainali/"><img src="https://img.shields.io/badge/-M%20Zain%20Ali-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a target="_blank" href="https://twitter.com/your-username"><img src="https://img.shields.io/badge/-M%20Zain%20Ali-1DA1F2?style=flat&logo=X&logoColor=white"/></a>
-<a target="_blank" href="https://www.facebook.com/your-username"><img src="https://img.shields.io/badge/-M%20Zain%20Ali-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-M%20Zain%20Ali-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a target="_blank" href="https://x.com/mr_mzainali"><img src="https://img.shields.io/badge/-M%20Zain%20Ali-1DA1F2?style=flat&logo=X&logoColor=white"/></a>
+<a target="_blank" href="https://www.facebook.com/profile.php?id=100094551577002"><img src="https://img.shields.io/badge/-M%20Zain%20Ali-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="mailto:your-mzain42401@gmail.com"><img src="https://img.shields.io/badge/-M%20Zain%20Ali-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 </p>
  
