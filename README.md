@@ -47,12 +47,12 @@ I specialize in building robust backends that do all the heavy lifting for your 
 	<td align='center' width="200">
         <img src="https://profilinator.rishav.dev/skills-assets/flask.png" width="80">
     </td>
-	</tr>
-	<tr>
 		
 <td align='center' width="200">
         <img src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" width="80">
     </td>
+	</tr>
+	<tr>
 	 </td>
 	<td align='center' width="200">
         <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" width="80">
@@ -64,8 +64,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 	<td align='center' width="200">
         <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" width="80">
 </td>
-</tr>
-<tr>
+
 	
 <td align='center' width="200">
         <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" width="80">
@@ -73,6 +72,9 @@ I specialize in building robust backends that do all the heavy lifting for your 
 	<td align='center' width="200">
         <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.sv" width="80">
     </td>
+</tr>
+<tr>
+	
     <td align='center' width="200">
         <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="80">
     </td>
@@ -80,7 +82,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <td align='center' width="200">
         <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" width="80">
     </td>
-</tr>
+
  <td align='center' width="200">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
     </td>
@@ -91,13 +93,13 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <td align='center' width="200">
         <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" width="80">
     </td>
+</tr>
  
  <tr>
 <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="80">
     </td>
-</tr>
-<tr>
+
     <td align='center'>
         <img src="https://res.cloudinary.com/apideck/image/upload/v1683273293/icons/flowiseai.png" width="80">
     </td>
@@ -111,6 +113,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0G-WyJpBs1ucUkPZLYvJRI61ZWl4v1zjCcBXemTHzNkfWmOmoB75KOQn_eiBtLoyNhw&usqp=CAU">
     </td>
 </tr>
+
  
 
     
