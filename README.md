@@ -39,14 +39,12 @@ I specialize in building robust backends that do all the heavy lifting for your 
         <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="80">
     </td>
 
-  <td align='center' width="200">
-        <img src="[https://www.datanami.com/wp-content/uploads/2022/03/pinecone_logo.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdUoIjZppJIYq7InQ5w52tPFzaiMs4TXxLA&s)"  width="80">
-    </td>
+
  <td align='center' width="200">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
     </td>
  <td align='center' width="200">
-        <img src="https://voicebot.ai/wp-content/uploads/2019/10/alan.jpg" width="100">
+        <img src="[https://voicebot.ai/wp-content/uploads/2019/10/alan.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMklBUVBX0yV0l3hIdTIxP-luLdoRYZAzvbA&s)" width="100">
     </td>
  <td align='center' width="200">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
