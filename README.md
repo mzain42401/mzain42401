@@ -61,8 +61,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
     </td>
  
 <td align='center' width="200">
-        <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg
-" width="80">
+        <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" width="80">
     </td>
 
  
