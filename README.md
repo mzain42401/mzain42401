@@ -12,8 +12,8 @@
 I'm a passionate full-stack developer and AI enthusiast with expertise in MERN stack technologies and chatbot development. I enjoy crafting intuitive user experiences and leveraging cutting-edge technologies to build innovative solutions that enhance interaction and productivity.
 
 <h5>💼 What I Do</h5>
-<b>Web Development</b>: Building dynamic, responsive websites and applications using modern web technologies.
-<b>Chatbot Development</b>: Creating intelligent chatbots for lead generation and customer support.
+<b>Web Development</b>: Building dynamic, responsive websites and applications using modern web technologies.<br/>
+<b>Chatbot Development</b>: Creating intelligent chatbots for lead generation and customer support.<br/>
 <b>Freelancing</b>: Delivering high-quality web solutions to clients worldwide
 <br/>
 <h4> <a href="https://zainali.vercel.app" 
