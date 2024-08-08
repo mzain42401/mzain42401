@@ -75,7 +75,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 </tr>
 <tr>
 	
-    <td align='center' width="200">
+<td align='center' width="200">
         <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="80">
     </td>
 
@@ -100,7 +100,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="80">
     </td>
 
-    <td align='center'>
+<td align='center'>
         <img src="https://res.cloudinary.com/apideck/image/upload/v1683273293/icons/flowiseai.png" width="80">
     </td>
 	<td align='center'>
