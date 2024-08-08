@@ -16,19 +16,26 @@ I'm a passionate full-stack developer and AI enthusiast with expertise in MERN s
 <b>Chatbot Development</b>: Creating intelligent chatbots for lead generation and customer support.
 <b>Freelancing</b>: Delivering high-quality web solutions to clients worldwide
 <br/>
-<h4>My Portfolio : <a href="https://zainali.vercel.app" 
+<h4> <a href="https://zainali.vercel.app" 
    style="background-color: #4CAF50; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 4px;" 
    target="_blank"
    onmouseover="this.style.backgroundColor='#45a049';" 
    onmouseout="this.style.backgroundColor='#4CAF50';">
    Visit My Portfolio
 </a> </h4>
-<h4> contact : <a href="https://zainali.vercel.app" 
+<h4> <a href="https://www.linkedin.com/in/mzainali/" 
    style="background-color: #4CAF50; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 4px;" 
    target="_blank"
    onmouseover="this.style.backgroundColor='#45a049';" 
    onmouseout="this.style.backgroundColor='#4CAF50';">
-   Visit My Portfolio
+   My LinkedIn Profile
+</a> </h4>
+<h4> contact : <a href="mailto:mzain42401@gmail.com" 
+   style="background-color: #4CAF50; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 4px;" 
+   target="_blank"
+   onmouseover="this.style.backgroundColor='#45a049';" 
+   onmouseout="this.style.backgroundColor='#4CAF50';">
+   Mail us
 </a></h4>
 
 
