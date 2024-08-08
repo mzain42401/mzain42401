@@ -39,7 +39,16 @@ I specialize in building robust backends that do all the heavy lifting for your 
         <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" width="80">
     </td>
 	<td align='center' width="200">
+        <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" width="80">
+    </td>
+	<td align='center' width="200">
         <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" width="80">
+    </td>
+	<td align='center' width="200">
+        <img src="https://profilinator.rishav.dev/skills-assets/flask.png" width="80">
+    </td>
+	<td align='center' width="200">
+        <img src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" width="80">
     </td>
 	 </td>
 	<td align='center' width="200">
@@ -48,6 +57,15 @@ I specialize in building robust backends that do all the heavy lifting for your 
 	  </td>
 	<td align='center' width="200">
         <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" width="80">
+    </td>
+	<td align='center' width="200">
+        <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" width="80">
+	</td>
+	<td align='center' width="200">
+        <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" width="80">
+	</td>
+	<td align='center' width="200">
+        <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.sv" width="80">
     </td>
     <td align='center' width="200">
         <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="80">
@@ -63,7 +81,9 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <td align='center' width="200">
         <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" width="80">
     </td>
-
+<td align='center' width="200">
+        <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" width="80">
+    </td>
  
 </tr>
  
@@ -73,6 +93,9 @@ I specialize in building robust backends that do all the heavy lifting for your 
     </td>
     <td align='center'>
         <img src="https://res.cloudinary.com/apideck/image/upload/v1683273293/icons/flowiseai.png" width="80">
+    </td>
+	<td align='center'>
+        <img src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" width="80">
     </td>
  <td align='center'>
         <img src="https://miro.medium.com/v2/resize:fit:600/0*2E9-J5WPFbVI_d32" width="80">
