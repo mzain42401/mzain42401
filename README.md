@@ -1,7 +1,8 @@
-## Hey 👋, I'm M Zain Ali!  
-  
-
-
+ <div align="center">
+    <h1> Hi there, I'm M Zain Ali👋</h1>
+  </div>
+<p align="center">
+<a href="https://github.com/mzain4201"><img src="https://readme-typing-svg.herokuapp.com/?lines=NLP+and+Web+Developer;Mern+Stack+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
 
 ### Glad to see you here!  
 I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
