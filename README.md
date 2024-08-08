@@ -6,30 +6,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=NLP+and+Web+Developer;MERN+Stack+Developer;Freelancer;Chatbot+Developer;Frontend+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676">
 </a>
 
-### Glad to see you here!  
-I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
+<h3>🎓 Full-Stack Developer | AI & Chatbot Developer
+</h3>
 
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
-  
+I'm a passionate full-stack developer and AI enthusiast with expertise in MERN stack technologies and chatbot development. I enjoy crafting intuitive user experiences and leveraging cutting-edge technologies to build innovative solutions that enhance interaction and productivity.
 
-<a href="https://github.com/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+<h5>💼 What I Do</h5>
+<b>Web Development</b>: Building dynamic, responsive websites and applications using modern web technologies.
+<b>Chatbot Development</b>: Creating intelligent chatbots for lead generation and customer support.
+<b>Freelancing</b>: Delivering high-quality web solutions to clients worldwide
+
+
+
+
   
 
 <br/>  
@@ -123,34 +112,10 @@ I specialize in building robust backends that do all the heavy lifting for your 
 </table>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/anus-khalil-48a397250/"><img src="https://img.shields.io/badge/-Anus%20Khalil-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:anuskhalil77@gmail.com"><img src="https://img.shields.io/badge/-anuskhalil77@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/anuskhalil007/"><img src="https://img.shields.io/badge/-@anuskhalil007-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
- </p>
+<a target="_blank" href="https://www.linkedin.com/in/mzainali/"><img src="https://img.shields.io/badge/-M%20Zain%20Ali-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+
+</p>
  
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=mzain42401&&style=flat-square)  
-  
-
 <br/>  
 
 
