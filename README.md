@@ -35,6 +35,20 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <table width="100">
 <tr>
+	<td align='center' width="200">
+        <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" width="80">
+    </td>
+	<td align='center' width="200">
+        <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" width="80">
+    </td>
+	 </td>
+	<td align='center' width="200">
+        <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" width="80">
+	</td>
+	  </td>
+	<td align='center' width="200">
+        <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" width="80">
+    </td>
     <td align='center' width="200">
         <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="80">
     </td>
@@ -63,7 +77,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
         <img src="https://miro.medium.com/v2/resize:fit:600/0*2E9-J5WPFbVI_d32" width="80">
     </td>
      <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png">
+        <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg">
     </td>
 	<td align='center'>
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0G-WyJpBs1ucUkPZLYvJRI61ZWl4v1zjCcBXemTHzNkfWmOmoB75KOQn_eiBtLoyNhw&usqp=CAU">
