@@ -53,16 +53,18 @@ I specialize in building robust backends that do all the heavy lifting for your 
         <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="80">
     </td>
 
-
+<td align='center' width="200">
+        <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" width="80">
+    </td>
  <td align='center' width="200">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
     </td>
- <td align='center' width="200">
-        <img src="[https://voicebot.ai/wp-content/uploads/2019/10/alan.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMklBUVBX0yV0l3hIdTIxP-luLdoRYZAzvbA&s)" width="100">
+ 
+<td align='center' width="200">
+        <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg
+" width="80">
     </td>
- <td align='center' width="200">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-    </td>
+
  
 </tr>
  
@@ -76,10 +78,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
  <td align='center'>
         <img src="https://miro.medium.com/v2/resize:fit:600/0*2E9-J5WPFbVI_d32" width="80">
     </td>
-     <td align='center'>
-        <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg">
-    </td>
-	<td align='center'>
+  	<td align='center'>
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0G-WyJpBs1ucUkPZLYvJRI61ZWl4v1zjCcBXemTHzNkfWmOmoB75KOQn_eiBtLoyNhw&usqp=CAU">
     </td>
 </tr>
